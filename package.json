@@ -14,12 +14,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomkp/smartcard.git"
+    "url": "https://github.com/QueenCityCodeFactory/smartcard.git"
   },
   "bugs": {
-    "url": "https://github.com/tomkp/smartcard/issues"
+    "url": "https://github.com/QueenCityCodeFactory/smartcard/issues"
   },
-  "homepage": "https://github.com/tomkp/smartcard",
+  "homepage": "https://github.com/QueenCityCodeFactory/smartcard",
   "main": "lib/index.js",
   "scripts": {
     "compile": "babel -d lib/ src/",
@@ -31,7 +31,7 @@
     "hexify": "^1.0.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1"
+    "babel-cli": "*",
+    "babel-preset-es2015": "*"
   }
 }
