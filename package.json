@@ -27,7 +27,7 @@
     "release:patch": "npm run compile && npm version patch && git push && npm publish"
   },
   "dependencies": {
-    "@pokusew/pcsclite": "^0.4.18",
+    "@pokusew/pcsclite": "git+https://github.com/jimmythesaint82/node-pcsclite.git#node_12_changes",
     "hexify": "^1.0.1"
   },
   "devDependencies": {
