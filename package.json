@@ -2,6 +2,7 @@
   "name": "smartcard",
   "version": "1.0.29",
   "author": "tomkp <tom@tomkp.com>",
+  "description": "PCSC smartcard reader library for nodejs",
   "keywords": [
     "pcsc",
     "smartcard",
